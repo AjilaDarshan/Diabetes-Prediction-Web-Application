@@ -7,5 +7,5 @@ From this dataset, we have consider 8 features Pregnancies, Glucose, BloodPressu
 In This Project, we have use Python to implement model.
 We use Support Vector Machine model for the prediction and Streamlit to deploy our model.
 
-![image](E:\Projects\Diabetes Prediction\ScreenShot\Capture13.png)
-![image](E:\Projects\Diabetes Prediction\ScreenShots\Capture12.png)
+![Capture12](https://user-images.githubusercontent.com/112164248/187180660-5d98bf31-c54f-41a0-8c59-2a6f460f1b42.PNG)
+![Capture13](https://user-images.githubusercontent.com/112164248/187180707-ee33c305-caad-45c9-8ac0-a370a706f425.PNG)
